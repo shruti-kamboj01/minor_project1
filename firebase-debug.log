@@ -92,3 +92,60 @@ You're about to initialize a Firebase project in this directory:
 [info] 
 [info] +  Success! Logged into GitHub as shruti-kamboj01 
 [info] 
+[debug] [2023-09-24T10:11:28.912Z] >>> [apiv2][query] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key type=owner
+[debug] [2023-09-24T10:11:29.392Z] <<< [apiv2][status] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key 401
+[debug] [2023-09-24T10:11:29.392Z] <<< [apiv2][body] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-09-24T10:11:33.547Z] >>> [apiv2][query] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key type=owner
+[debug] [2023-09-24T10:11:33.986Z] <<< [apiv2][status] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key 401
+[debug] [2023-09-24T10:11:33.987Z] <<< [apiv2][body] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-09-24T10:11:34.456Z] >>> [apiv2][query] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key type=owner
+[debug] [2023-09-24T10:11:34.701Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-09-24T10:11:34.804Z] <<< [apiv2][status] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key 401
+[debug] [2023-09-24T10:11:34.804Z] <<< [apiv2][body] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-09-24T10:11:34.904Z] >>> [apiv2][query] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key type=owner
+[debug] [2023-09-24T10:11:35.095Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-09-24T10:11:35.095Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-09-24T10:11:35.117Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-09-24T10:11:35.359Z] <<< [apiv2][status] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key 401
+[debug] [2023-09-24T10:11:35.367Z] <<< [apiv2][body] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-09-24T10:11:35.509Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-09-24T10:11:35.510Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-09-24T10:11:36.162Z] >>> [apiv2][query] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key type=owner
+[debug] [2023-09-24T10:11:36.547Z] <<< [apiv2][status] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key 401
+[debug] [2023-09-24T10:11:36.547Z] <<< [apiv2][body] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-09-24T10:11:36.681Z] >>> [apiv2][query] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key type=owner
+[debug] [2023-09-24T10:11:37.058Z] <<< [apiv2][status] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key 401
+[debug] [2023-09-24T10:11:37.058Z] <<< [apiv2][body] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-09-24T10:11:37.091Z] >>> [apiv2][query] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key type=owner
+[debug] [2023-09-24T10:11:37.449Z] <<< [apiv2][status] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key 401
+[debug] [2023-09-24T10:11:37.450Z] <<< [apiv2][body] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-09-24T10:11:37.477Z] >>> [apiv2][query] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key type=owner
+[debug] [2023-09-24T10:11:37.845Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-09-24T10:11:37.865Z] <<< [apiv2][status] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key 401
+[debug] [2023-09-24T10:11:37.865Z] <<< [apiv2][body] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-09-24T10:11:38.210Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-09-24T10:11:38.210Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-09-24T10:11:38.228Z] >>> [apiv2][query] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key type=owner
+[debug] [2023-09-24T10:11:38.512Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-09-24T10:11:38.564Z] <<< [apiv2][status] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key 401
+[debug] [2023-09-24T10:11:38.564Z] <<< [apiv2][body] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-09-24T10:11:38.809Z] >>> [apiv2][query] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key type=owner
+[debug] [2023-09-24T10:11:38.881Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-09-24T10:11:38.881Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-09-24T10:11:39.075Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-09-24T10:11:39.152Z] <<< [apiv2][status] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key 401
+[debug] [2023-09-24T10:11:39.152Z] <<< [apiv2][body] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-09-24T10:11:39.399Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-09-24T10:11:39.400Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-09-24T10:11:39.566Z] >>> [apiv2][query] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key type=owner
+[debug] [2023-09-24T10:11:39.917Z] <<< [apiv2][status] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key 401
+[debug] [2023-09-24T10:11:39.917Z] <<< [apiv2][body] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-09-24T10:11:40.100Z] >>> [apiv2][query] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key type=owner
+[debug] [2023-09-24T10:11:40.448Z] <<< [apiv2][status] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key 401
+[debug] [2023-09-24T10:11:40.448Z] <<< [apiv2][body] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-09-24T10:11:40.587Z] >>> [apiv2][query] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key type=owner
+[debug] [2023-09-24T10:11:40.935Z] <<< [apiv2][status] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key 401
+[debug] [2023-09-24T10:11:40.935Z] <<< [apiv2][body] GET https://api.github.com/repos/ /shruti-kamboj01/expense-tracker/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-09-24T10:11:49.550Z] >>> [apiv2][query] GET https://api.github.com/repos/user/actions/secrets/public-key type=owner
+[debug] [2023-09-24T10:11:50.084Z] <<< [apiv2][status] GET https://api.github.com/repos/user/actions/secrets/public-key 401
+[debug] [2023-09-24T10:11:50.084Z] <<< [apiv2][body] GET https://api.github.com/repos/user/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}

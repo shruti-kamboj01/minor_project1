@@ -22,11 +22,11 @@ const Auth = () => {
 
 
   return (
-    <div className=''>
-       <p>Sign In With Google to Continue</p>
-       <button onClick={signInWithGoogle}>
-       {" "}
-        Sign In With Google
+    <div className=' flex flex-col items-center mx-auto mt-[300px]'>
+       <p className='text-3xl font-bold font-inter text-richblue-900'>Sign In With Google to Continue</p>
+       <button onClick={signInWithGoogle}
+       className="bg-richblue-800 mt-3 text-richblue-25 font-semibold py-2 px-6 text-2xl rounded-2xl hover:bg-richblue-50 hover:border-2 hover:font-bold hover:text-richblack-900 transition-all duration-200" >
+        Sign In
        </button>
     </div>
   )
